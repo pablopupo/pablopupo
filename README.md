@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo
 
-Computer science student at the University of Florida. AI engineer at Handtevy, building applied AI systems in healthcare. Classical pianist and music enthusiast.
+CS student at UF. AI engineer at Handtevy. Classical pianist and music enthusiast.
 
 I build projects, write technical notes, and share piano performances at [pablopupo.com](https://pablopupo.com).
 
