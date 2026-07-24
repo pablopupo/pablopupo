@@ -1,17 +1,17 @@
 ### Hi, I'm Pablo
 
-I'm a CS student at the University of Florida and I work in applied AI.
-Right now I'm doing an AI engineering internship at Handtevy, building
-document intelligence pipelines for emergency medicine software used by
-200,000+ clinicians nationwide, and contributing to open source projects
-like docling, vLLM, SGLang, and the MCP SDKs.
+Computer science student at the University of Florida. AI engineer at Handtevy, building applied AI systems in healthcare. Classical pianist and music enthusiast.
 
-I'm also a classical pianist. I run Accordo, a booking and payments
-marketplace for musicians, and I'm building
-[Gradus ad Parnassum](https://github.com/pablopupo/gradus-ad-parnassum),
-which reads sheet music and answers a musician's questions about it.
+I build projects, write technical notes, and share piano performances at [pablopupo.com](https://pablopupo.com).
 
-### Open source
+### Projects
+
+- [Gradus ad Parnassum](https://github.com/pablopupo/gradus-ad-parnassum) - reads sheet music and answers a musician's questions about it.
+- [kit-ai](https://github.com/pablopupo/kit-ai) - offline-first emergency first-aid PWA with on-device Llama 3.2, IndexedDB retrieval, and online/offline text-to-speech.
+- Accordo - live marketplace for musicians: booking, contracts, and payments.
+
+<details>
+<summary>Contributions</summary>
 
 Merged:
 
@@ -25,8 +25,4 @@ In review:
 - [typescript-sdk #2418](https://github.com/modelcontextprotocol/typescript-sdk/pull/2418) - double onerror on transport close, ported to v2
 - [docling #3722](https://github.com/docling-project/docling/pull/3722) - new Box Notes backend, with [docling-core #668](https://github.com/docling-project/docling-core/pull/668) and [docling-mcp #104](https://github.com/docling-project/docling-mcp/pull/104) alongside
 
-### Projects
-
-- [kit-ai](https://github.com/pablopupo/kit-ai) - offline-first emergency first-aid PWA I built with my hackathon team. Llama 3.2 runs on-device through WebLLM and WebGPU. My pieces were the IndexedDB retrieval layer, the online/offline TTS fallback, and a fine-tuned Llama 3 medical model that I'm now working to ship in the app.
-- Accordo - live marketplace for musicians: booking, contracts, payments.
-
+</details>
